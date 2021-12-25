@@ -1,3 +1,9 @@
+.idea
+.vscode
+.DS_Store
+/objs
+*.o
+
 # Prerequisites
 *.d
 
